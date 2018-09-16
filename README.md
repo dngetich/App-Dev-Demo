@@ -21,4 +21,4 @@ http://g.recordit.co/dMbfVxKwj0.gif
    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [ ] c. If the text field is empty, update label with default text string.
    - [ ] d. The keyboard is dismissed after the button has been tapped.
--[Done] 5. I added the button feature to reshape them and make them look better.
+-[Done] 5. Added the button feature to reshape them and make them look better.
